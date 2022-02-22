@@ -6,6 +6,7 @@ Simple levenshtein is an algorithm that calculates the differences between two s
 ## Usage
 
 ``` node SimpleLevenshtein.js```
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
